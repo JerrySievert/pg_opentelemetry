@@ -1,0 +1,4 @@
+*.so
+*.o
+pg_opentelemetry--*.sql
+
